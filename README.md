@@ -72,3 +72,19 @@
 - ROI tracking template for AI tool spending
 
 ## Total: 60+ templates, workflows, and prompts
+
+---
+
+## 💎 Premium Version
+
+**[🛒 Get on Payhip ($9)](https://payhip.com/b/ZEd6W)**
+
+Or grab everything (125 dev prompts + playbook + 60 automation templates):
+
+**[🎯 Complete Bundle — $29](https://payhip.com/WindCore)**
+
+## More Free Resources
+
+- [AI Prompt Pack for Developers](https://github.com/ZhiruiFeng/ai-prompt-pack-devs) — 125 expert prompts
+- [Solopreneur AI Playbook](https://github.com/ZhiruiFeng/solopreneur-ai-playbook) — Complete business blueprint
+- [AI Email Templates](https://github.com/ZhiruiFeng/ai-email-templates) — 50 email templates
